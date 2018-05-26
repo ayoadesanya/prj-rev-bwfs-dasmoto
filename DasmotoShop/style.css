@@ -1,0 +1,60 @@
+body{
+    
+    background-color: grey;
+    
+}
+
+#container {
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    background-color: white;
+    padding: 10px;
+    border-color: red;
+    border-width: thick;
+    
+    
+}
+
+#header{
+    
+    text-align: center;
+    font-size: 100px;
+    color: khaki;
+    background-image: url("./images/pattern.jpeg");
+    font-family: Helvetica;
+    font-weight: bold
+}
+    
+    
+    
+
+
+#brushes{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    
+}
+
+#frames{
+    
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#paint{
+    
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    
+}
